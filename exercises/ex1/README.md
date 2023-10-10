@@ -1,39 +1,17 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Anytime
 
-In this exercise, we will create...
+## Exercise 1.1 Sub Exercise 1 Access In-App Help
 
-## Exercise 1.1 Sub Exercise 1 Description
+1. Choose the question mark icon in the top right corner.​
 
-After completing these steps you will have created...
+2. The context-sensitive SAP Companion in-app help opens.​
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+3. Access on-screen descriptions, interactive learning tutorials, What’s New information, and direct links to SAP Help Portal.​
 
 
+For more detailed instructions:​
 
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+[Access In-App Help](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_490991C06A5C23AA:uebung#TS_2A146D140D954FA98C5EFD5AC4B1E049) as interactive tutorial
 
 
 ## Summary
