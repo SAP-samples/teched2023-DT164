@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called DT164 - SAP Central Business Configuration for Implementing SAP S/4HANA Cloud.  
+This repository contains the material for the SAP TechEd 2023 session called DT164 - SAP Central Business Configuration for Implementing SAP S/4HANA Cloud.  
 
 ## Overview
 
