@@ -1,40 +1,36 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT164)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT164)
-
-# Session ID - Session Title
+# DT164 - SAP Central Business Configuration for Implementing SAP S/4HANA Cloud
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DT164 - SAP Central Business Configuration for Implementing SAP S/4HANA Cloud.  
 
 ## Overview
 
-This session introduces attendees to...
+In this session attendees get an overview of the implementation experience for SAP S/4HANA Cloud with the SAP Central Business Configuration tool by exploring project experience capabilities such as scoping, organization structure setup, and configuration activities in SAP S/4HANA Cloud, as well as the configuration localization tool.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+This is a beginner level workshop with no prior knowledge required.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Anytime](exercises/ex1/)​
+    - [Access In-App Help](exercises/ex1#exercise-11-sub-exercise-1-description)​
+- [Scope and Organizational Structure Phase​](exercises/ex2/)
+    - [Define Scope​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Define Scope (incl. CLT)​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Assign Deployment Targets​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Confirm Scoping Is Completed](exercises/ex2#exercise-11-sub-exercise-2-description)​
+    - [Initiate Change (Optional)​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Specify Primary Finance Settings​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Set Up Organizational Structure​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Set Up Organizational Structure (incl. CLT)​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Confirm Scope and Organizational Structure Phase Is Completed​](exercises/ex2#exercise-11-sub-exercise-2-description)
+- [Product-Specific Configuration Phase​](exercises/ex3/)
+    - [Configure Business Processes​](exercises/ex3#exercise-11-sub-exercise-3-description)
 
   
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
