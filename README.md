@@ -16,7 +16,7 @@ This is a beginner level workshop with no prior knowledge required.
 
 - [Getting Started](exercises/ex0/)
 - [Anytime](exercises/ex1/)​
-    - [Access In-App Help](exercises/ex1#exercise-11-sub-exercise-1-description)​
+    - [Access In-App Help](exercises/ex1#exercise-11-sub-exercise-1-access-in-app-help)​
 - [Scope and Organizational Structure Phase​](exercises/ex2/)
     - [Define Scope​](exercises/ex2#exercise-11-sub-exercise-2-description)
     - [Define Scope (incl. CLT)​](exercises/ex2#exercise-11-sub-exercise-2-description)
