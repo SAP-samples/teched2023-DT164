@@ -20,14 +20,13 @@ This is a beginner level workshop with no prior knowledge required.
 - [Scope and Organizational Structure Phase​](exercises/ex2/)
     - [Define Scope (incl. CLT)​](exercises/ex2#exercise-21-define-scopeincl-clt)
     - [Assign Deployment Targets​](exercises/ex2#exercise-22-assign-deployment-targets)
-    - [Confirm Scoping Is Completed](exercises/ex2#exercise-11-sub-exercise-2-description)​
-    - [Initiate Change (Optional)​](exercises/ex2#exercise-11-sub-exercise-2-description)
-    - [Specify Primary Finance Settings​](exercises/ex2#exercise-11-sub-exercise-2-description)
-    - [Set Up Organizational Structure​](exercises/ex2#exercise-11-sub-exercise-2-description)
-    - [Set Up Organizational Structure (incl. CLT)​](exercises/ex2#exercise-11-sub-exercise-2-description)
-    - [Confirm Scope and Organizational Structure Phase Is Completed​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Confirm Scoping Is Completed](exercises/ex2#exercise-23-confirm-scoping-is-completed)​
+    - [Initiate Change (Optional)​](exercises/ex2#exercise-24-initiate-changeoptional)​
+    - [Specify Primary Finance Settings​](exercises/ex2#exercise-25-specify-primary-finance-settings)
+    - [Set Up Organizational Structure (incl. CLT)​](exercises/ex2#exercise-26-set-up-organizational-structureincl-clt)​)
+    - [Confirm Scope and Organizational Structure Phase Is Completed​](exercises/ex2#exercise-27-confirm-scope-and-organizational-structure-phase-is-completed)
 - [Product-Specific Configuration Phase​](exercises/ex3/)
-    - [Configure Business Processes​](exercises/ex3#exercise-11-sub-exercise-3-description)
+    - [Configure Business Processes​](exercises/ex3#exercise-31-configure-business-processes)
 
   
 ## Contributing
