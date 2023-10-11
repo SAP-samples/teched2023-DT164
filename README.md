@@ -27,6 +27,7 @@ This is a beginner level workshop with no prior knowledge required.
     - [Confirm Scope and Organizational Structure Phase Is Completed​](exercises/ex2#exercise-27-confirm-scope-and-organizational-structure-phase-is-completed)
 - [Product-Specific Configuration Phase​](exercises/ex3/)
     - [Configure Business Processes​](exercises/ex3#exercise-31-configure-business-processes)
+    - [Configure Business Processes (incl. CLT)](exercises/ex3#exercise-32-configure-business-processesincl-clt)
 
   
 ## Contributing
