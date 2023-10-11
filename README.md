@@ -18,8 +18,7 @@ This is a beginner level workshop with no prior knowledge required.
 - [Anytime](exercises/ex1/)​
     - [Access In-App Help](exercises/ex1#exercise-11-sub-exercise-1-access-in-app-help)​
 - [Scope and Organizational Structure Phase​](exercises/ex2/)
-    - [Define Scope​](exercises/ex2#exercise-11-sub-exercise-2-description)
-    - [Define Scope (incl. CLT)​](exercises/ex2#exercise-11-sub-exercise-2-description)
+    - [Define Scope (incl. CLT)​](exercises/ex2#exercise-21-define-scopeincl-clt)
     - [Assign Deployment Targets​](exercises/ex2#exercise-11-sub-exercise-2-description)
     - [Confirm Scoping Is Completed](exercises/ex2#exercise-11-sub-exercise-2-description)​
     - [Initiate Change (Optional)​](exercises/ex2#exercise-11-sub-exercise-2-description)
