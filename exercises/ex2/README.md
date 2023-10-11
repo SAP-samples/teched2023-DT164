@@ -30,24 +30,19 @@ For more detailed instructions:​
 
 
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 Assign Deployment Targets
 
-After completing these steps you will have...
+1. Open Assign Deployment Targets activity.​
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+2. Assign any of the unassigned dummy deployment targets.​
 
-```
+3. Go back and set activity to Completed.​
 
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+For more detailed instructions:​
+
+[Assign Deployment Targets](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_C44D4C1CAC76A29B:uebung#TS_6862223E1EDB48A7ABC203800A7721B1) as interactive tutorial​
+
+[Assign Deployment Targets](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/95fd314987594c85a9cdbe604b808919.html) documentation on SAP Help Portal
 
 ## Summary
 
