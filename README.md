@@ -23,7 +23,7 @@ This is a beginner level workshop with no prior knowledge required.
     - [Confirm Scoping Is Completed](exercises/ex2#exercise-23-confirm-scoping-is-completed)​
     - [Initiate Change (Optional)​](exercises/ex2#exercise-24-initiate-changeoptional)​
     - [Specify Primary Finance Settings​](exercises/ex2#exercise-25-specify-primary-finance-settings)
-    - [Set Up Organizational Structure (incl. CLT)​](exercises/ex2#exercise-26-set-up-organizational-structureincl-clt)​)
+    - [Set Up Organizational Structure (incl. CLT)​](exercises/ex2#exercise-26-set-up-organizational-structureincl-clt)​
     - [Confirm Scope and Organizational Structure Phase Is Completed​](exercises/ex2#exercise-27-confirm-scope-and-organizational-structure-phase-is-completed)
 - [Product-Specific Configuration Phase​](exercises/ex3/)
     - [Configure Business Processes​](exercises/ex3#exercise-31-configure-business-processes)
