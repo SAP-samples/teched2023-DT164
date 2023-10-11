@@ -1,6 +1,6 @@
 # Exercise 2 - Scope and Organizational Structure Phase
 
-In this exercise, we will learn to perform scoping and creating organizational structure.
+In this exercise, we will learn to perform scoping and create organizational structure.
 
 ## Exercise 2.1 Define Scope(incl. CLT)
 
