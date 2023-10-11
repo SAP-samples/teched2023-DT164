@@ -44,7 +44,22 @@ For more detailed instructions:​
 [Assign Deployment Targets](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_C44D4C1CAC76A29B:uebung#TS_6862223E1EDB48A7ABC203800A7721B1) as interactive tutorial​
 
 [Assign Deployment Targets](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/95fd314987594c85a9cdbe604b808919.html) documentation on SAP Help Portal
+<br>
+<br>
 
+## Exercise 2.3 Confirm Scoping Is Completed
+
+1. Skip the Confirming Scoping Is Completed activity to avoid waiting time.​
+
+2. Switch the project.​
+
+For more detailed instructions:​
+
+[Confirm Scoping Is Completed](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_BFD5FD3819537CB1:uebung#TS_F1FF49E31A904BB69D0BB3B403C55C38) as interactive tutorial​
+
+[Confirm Scoping Is Completed](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/9a803218746044b3bab382a22e4f07e0.html) documentation on SAP Help Portal
+<br>
+<br>
 ## Summary
 
 You've now ...
