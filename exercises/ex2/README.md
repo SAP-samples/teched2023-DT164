@@ -19,7 +19,7 @@ The amount of CLT enabled “Scenarios” is dependent on the content version.
 5. Select Cook Islands from the Countries/Regions filter and add a scenario just for Cook Islands (e.g. 2FD).​
 
 6. Complete Define Scope activity.​
-<br>
+
 
 For more detailed instructions:​
 
@@ -38,7 +38,7 @@ For more detailed instructions:​
 2. Assign any of the unassigned dummy deployment targets.​
 
 3. Go back and set activity to Completed.​
-<br>
+
 For more detailed instructions:​
 
 [Assign Deployment Targets](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_C44D4C1CAC76A29B:uebung#TS_6862223E1EDB48A7ABC203800A7721B1) as interactive tutorial​
