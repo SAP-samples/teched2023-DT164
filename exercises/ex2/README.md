@@ -140,6 +140,6 @@ For more detailed instructions:​
 <br>
 ## Summary
 
-You've now ...
+You've now completed scoping and organization structure setup for your CBC project.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
