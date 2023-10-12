@@ -8,4 +8,4 @@
 
 ## Summary
 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Exercise 1 - Exercise 1 Anytime](../ex1/README.md)
