@@ -57,5 +57,5 @@ For more detailed instructions:​
 
 ## Summary
 
-You've now completed business configuration of SAP S/4HANA Cloud with the SAP Central Business Configuration tool.
+You have now completed business configuration of SAP S/4HANA Cloud with the SAP Central Business Configuration tool.
 
