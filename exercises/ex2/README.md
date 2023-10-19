@@ -142,4 +142,4 @@ For more detailed instructions:​
 
 You've now completed scoping and organization structure setup for your CBC project.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Product-Specific Configuration Phase ](../ex3/README.md)
