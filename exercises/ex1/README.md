@@ -18,5 +18,5 @@ For more detailed instructions:​
 
 You've now ...
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Scope and Organizational Structure Phase](../ex2/README.md)
 
