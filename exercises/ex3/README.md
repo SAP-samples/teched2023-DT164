@@ -13,7 +13,7 @@ Project to be used for exercise: Deployed to S/4Hana Cloud
 
 3. Open a configuration activity. For example, Valuation Area.​
 
-4. On the logon screen, enter BPC_Expert as user name and Welcome1! as password.​
+4. On the logon screen, enter S4H client username and password in [User Excel for TechEd Workshops.xlsx](../ex0/User%20Excel%20for%20TechEd%20Workshops.xlsx).​
 
 5. Confirm the dialog box that pops up.​
 
