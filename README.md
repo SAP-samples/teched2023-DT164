@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT164)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT164)
+
 # DT164 - SAP Central Business Configuration for Implementing SAP S/4HANA Cloud
 
 ## Description
